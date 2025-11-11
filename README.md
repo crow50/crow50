@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Ej (Ernest Baker)
 
-<!--
-**crow50/crow50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## US Army Veteran
+## DevSecOps + cybersecurity. I like to build secure pipelines and automate the boring parts.
 
-Here are some ideas to get you started:
+### Now
+- Config and Secrets validation using **Trivy and Gitleaks**
+- SBOM pipelines with **Syft and Grype** for actionable CVE reports
+- Homelab on real infra: **k3s, Pi-hole, Traefik, Proxmox, n8n**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Featured
+- **Secret Scanning** - Secrets scanning in CI with pre-commit hooks using Gitleaks
+- **Container Vulnerability** - Identifying container vulnerabilities with Trivy
+- **Supply Chain Security with SBOM** - end-to-end Syft/Grype pipeline in CI
+- **ernest-portfolio** - my site + resume; Github -> Cloudflare pages
+
+### Links
+- Site: https://ernestbaker.me
+- GitHub: @crow50
