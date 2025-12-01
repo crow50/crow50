@@ -1,5 +1,7 @@
 # Hey, I'm Ej (Ernest Baker)
 
+## I'm looking for work 👨‍💻
+
 ## US Army Veteran
 ## DevSecOps + cybersecurity. I like to build secure pipelines and automate the boring parts.
 
