@@ -6,10 +6,12 @@
 ## DevSecOps + cybersecurity. I like to build secure pipelines and automate the boring parts.
 
 ### Now
-- Config and Secrets validation using **Trivy and Gitleaks**
-- SBOM pipelines with **Syft and Grype** for actionable CVE reports
+- **Alpaca** cyber range CTF
+- **DOOM** inventory management using secure coding practices
+- **Parallax** data provenance and confidence scoring from upstream providers
 
 ### Featured
+- **Machine Learning** - Predicting CVSS Vulnerability Severity
 - **Secret Scanning** - Secrets scanning in CI with pre-commit hooks using Gitleaks
 - **Container Vulnerability** - Identifying container vulnerabilities with Trivy
 - **Supply Chain Security with SBOM** - end-to-end Syft/Grype pipeline in CI
@@ -20,4 +22,5 @@
 
 ### Links
 - Site: https://ernestbaker.me
+- LinkedIn: https://www.linkedin.com/in/ernestlbaker
 - GitHub: @crow50
